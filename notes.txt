@@ -1,0 +1,5 @@
+IMPORTANT TIPS(## siva)
+
+-> install Anaconda
+-> conda insatll pydotplus (to visulaize decision tress)
+-> conda install tensorflow / pip install tensorflow
